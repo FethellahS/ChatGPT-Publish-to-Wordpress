@@ -18,10 +18,6 @@ Installation
 
 1.  **Clone the Repository**
     
-    sh
-    
-    Copy code
-    
     `git clone https://github.com/FethellahS/chatgpt-publish-to-wordpress.git`
     
 2.  **Load the Extension**
@@ -82,7 +78,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 License
 -------
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 Contact
 -------
